@@ -3,9 +3,9 @@ import requests
 from datetime import datetime, timezone
 
 # For local testing, you can temporarily hard-code your key:
-API_KEY = "aff293a30daa474cfa099943a265a5a4"
+# API_KEY = ""
 # For GitHub Actions, we will use an environment variable:
-# API_KEY = os.getenv("OPENWEATHER_API_KEY")
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 LAT = 50.8798
 LON = 4.7005
