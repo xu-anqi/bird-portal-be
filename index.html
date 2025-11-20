@@ -1,19 +1,75 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Birding Portal Belgium</title>
+  <meta charset="UTF-8" />
+  <title>Belgian Birding Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+      line-height: 1.6;
+      background: #f5f7fb;
+      color: #222;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      margin-bottom: 0.3rem;
+    }
+    .tagline {
+      color: #555;
+      font-size: 0.95rem;
+    }
+    section {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+    }
+    .status {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    .status-yes {
+      color: #157347;
+    }
+    .label {
+      font-weight: 600;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      text-decoration: none;
+      border-bottom: 1px dashed #0d6efd;
+    }
+    a:hover {
+      border-bottom-style: solid;
+    }
+  </style>
 </head>
 <body>
-  <h1>Belgian Birding Portal</h1>
-  <p>Welcome to the Test version of my birding website. </p>
+  <header>
+    <h1>Belgian Birding Portal</h1>
+    <p class="tagline">Test version · manually updated downloads for Belgian birdwatching</p>
+  </header>
 
-  <h2>Should I go birdwatching today?</h2>
-  <p>YES!</p>
-  <p>Birds: Good</p>
-  <p>Weather: Okay</p>
+  <section>
+    <h2>Should I go birdwatching today?</h2>
+    <p class="status status-yes">YES! 🐦</p>
+    <p><span class="label">Birds:</span> Good</p>
+    <p><span class="label">Weather:</span> Okay</p>
+  </section>
 
-  <h2>Leuven birding weather</h2>
+  <section>
+    <h2>Leuven birding weather</h2>
   <div style="max-width: 420px; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
     <iframe
       src="leuven_birding_status.html"
@@ -22,10 +78,28 @@
     </iframe>
   </div>
 
-  <h2>Data Downloads</h2>
-  <ul>
-    <li><a href="data/belgium_birds_2025_11.csv">Belgium Birds Observations (Nov 2025)</a></li>
-    <li><a href="data/species_list_v1.csv">Species List v1</a></li>
-  </ul>
+
+  </section>
+
+  <section>
+    <h2>Data Downloads</h2>
+    <ul>
+      <li>
+        <a href="data/belgium_birds_2025_11.csv">
+          Belgium Birds Observations (Nov 2025)
+        </a>
+        – exported from my personal birding datasets.
+      </li>
+      <li>
+        <a href="data/species_list_v1.csv">
+          Species List v1
+        </a>
+        – all species recorded in Belgium in my current dataset.
+      </li>
+    </ul>
+    <p style="font-size:0.9rem;color:#666;">
+      Last manual update: 2025-11-20
+    </p>
+  </section>
 </body>
 </html>
