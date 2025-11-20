@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Leuven birding weather</title>
+  <style>
+    :root {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color-scheme: light dark;
+    }
+    body {
+      margin: 0;
+      padding: 0.75rem;
+      font-size: 14px;
+      background: transparent;
+    }
+    .card {
+      border-radius: 12px;
+      border: 1px solid #e0e0e0;
+      padding: 0.75rem 0.9rem;
+      background: rgba(255, 255, 255, 0.9);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+    }
+    .title-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      margin-bottom: 0.35rem;
+    }
+    .title {
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .score-pill {
+      font-size: 12px;
+      padding: 0.15rem 0.5rem;
+      border-radius: 999px;
+      border: 1px solid #ddd;
+      background: #f7f7f7;
+    }
+    .verdict {
+      font-size: 14px;
+      margin-bottom: 0.3rem;
+    }
+    .meta {
+      font-size: 11px;
+      color: #666;
+      margin-bottom: 0.6rem;
+    }
+    .meta span + span::before {
+      content: "•";
+      margin: 0 0.3rem;
+      color: #aaa;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 13px;
+    }
+    li {
+      margin-bottom: 0.25rem;
+      display: flex;
+      gap: 0.35rem;
+      align-items: baseline;
+    }
+    .label {
+      min-width: 78px;
+      font-weight: 500;
+    }
+    .badge {
+      font-size: 11px;
+      padding: 0.05rem 0.4rem;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+    .badge-good {
+      background: #e3f6e8;
+      color: #1b7b3f;
+    }
+    .badge-medium {
+      background: #fff5d6;
+      color: #946200;
+    }
+    .badge-bad {
+      background: #ffe3e3;
+      color: #a12a2a;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="title-row">
+      <div class="title">Leuven birding weather</div>
+      <div class="score-pill">9/10</div>
+    </div>
+    <div class="verdict">🌤 Great birding weather in Leuven</div>
+    <div class="meta">
+      <span>Overcast clouds, clouds 100%</span>
+      <span>Last update: 2025-11-20 22:46 UTC</span>
+    </div>
+    <ul>
+      <li>
+        <span class="label">Temperature</span>
+        <span class="badge badge-medium">medium</span>
+        <span>Acceptable but not ideal (1.9°C)</span>
+      </li>
+      <li>
+        <span class="label">Wind</span>
+        <span class="badge badge-good">good</span>
+        <span>Light wind (3.1 m/s)</span>
+      </li>
+      <li>
+        <span class="label">Rain (1 h)</span>
+        <span class="badge badge-good">good</span>
+        <span>Almost dry (0.00 mm last hour)</span>
+      </li>
+      <li>
+        <span class="label">Visibility</span>
+        <span class="badge badge-good">good</span>
+        <span>Good visibility (10.0 km)</span>
+      </li>
+    </ul>
+  </div>
+</body>
+</html>

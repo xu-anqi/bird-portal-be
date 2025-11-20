@@ -1,0 +1,51 @@
+# Ignore datasets (confidential)
+*.csv
+*.dta
+*.rds
+*.sav
+*.zip
+
+# Ignore temporary or log files
+*.log
+*.tmp
+*.aux
+*.out
+*.toc
+
+# Ignore R and RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore compiled PDFs, DOCs, and other big outputs
+*.pdf
+*.docx
+*.pptx
+
+# Ignore folders where sensitive data is stored
+#data/
+#datasets/
+#raw_data/
+
+# Ignore LaTeX auxiliary files if you use LaTeX
+*.blg
+*.bbl
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Personal notes or backups (optional)
+*.bak
+*.txt
+notes/private/
+
+# Ignore anything related to system files
+.DS_Store
+Thumbs.db

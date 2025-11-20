@@ -1,0 +1,39 @@
+name: Update Leuven birding weather
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # allow manual run from Actions tab
+
+jobs:
+  update-leuven-birding:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Leuven birding status HTML
+        env:
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+        run: python leuven_birding_status.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add leuven_birding_status.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Leuven birding weather card"
+            git push
+          else
+            echo "No changes to commit."
+          fi
