@@ -1,0 +1,597 @@
+"species","occurences","family","iucnRedListCategory","abundance_rank","shannon_info"
+"Buteo buteo",380949,"Accipitridae"," LC",1,5.20983622215848
+"Turdus merula",343599,"Turdidae"," LC",2,5.35870825258473
+"Columba palumbus",337234,"Columbidae"," LC",3,5.38568409387356
+"Fringilla coelebs",289965,"Fringillidae"," LC",4,5.60355531892656
+"Parus major",285654,"Paridae"," LC",5,5.62516535823528
+"Phylloscopus collybita",264332,"Phylloscopidae"," LC",6,5.7370830022523
+"Erithacus rubecula",262188,"Muscicapidae"," LC",7,5.74883243347607
+"Troglodytes troglodytes",256863,"Troglodytidae"," LC",8,5.77843499904443
+"Anas platyrhynchos",253502,"Anatidae"," LC",9,5.79743696089866
+"Ardea cinerea",241661,"Ardeidae"," LC",10,5.86644942499328
+"Corvus corone",238652,"Corvidae"," LC",11,5.88452566348477
+"Cyanistes caeruleus",222154,"Paridae"," LC",12,5.98787397222448
+"Phalacrocorax carbo",212169,"Phalacrocoracidae"," LC",13,6.054220210728
+"Pica pica",196900,"Corvidae"," LC",14,6.16197097905231
+"Fulica atra",195888,"Rallidae"," LC",15,6.16940506874933
+"Falco tinnunculus",191628,"Falconidae"," LC",16,6.20112571236079
+"Vanellus vanellus",186632,"Charadriidae"," NT",17,6.23923771780392
+"Coloeus monedula",181643,"Corvidae"," LC",18,6.27832832079422
+"Chroicocephalus ridibundus",176662,"Laridae"," LC",19,6.31844234076604
+"Dendrocopos major",174618,"Picidae"," LC",20,6.33523180754295
+"Sylvia atricapilla",173505,"Sylviidae"," LC",21,6.34445685186135
+"Aythya fuligula",167856,"Anatidae"," LC",22,6.39220998330972
+"Mareca strepera",164413,"Anatidae"," LC",23,6.42210971405783
+"Picus viridis",161981,"Picidae"," LC",24,6.4436094920791
+"Prunella modularis",161389,"Prunellidae"," LC",25,6.44889183996766
+"Sturnus vulgaris",151749,"Sturnidae"," LC",26,6.53774708089349
+"Streptopelia decaocto",150824,"Columbidae"," LC",27,6.54656807331654
+"Podiceps cristatus",147829,"Podicipedidae"," LC",28,6.57550477579981
+"Accipiter nisus",145728,"Accipitridae"," LC",29,6.59615598859197
+"Gallinula chloropus",143656,"Rallidae"," LC",30,6.61681583992413
+"Tadorna tadorna",138110,"Anatidae"," LC",31,6.67361630706006
+"Passer domesticus",135999,"Passeridae"," LC",32,6.69583804690693
+"Garrulus glandarius",133278,"Corvidae"," LC",33,6.72499543372336
+"Ardea alba",132119,"Ardeidae"," LC",34,6.73759613517802
+"Hirundo rustica",129893,"Hirundinidae"," LC",35,6.76211040498249
+"Anas crecca",127729,"Anatidae"," LC",36,6.78634797397242
+"Anser anser",124083,"Anatidae"," LC",37,6.82812861781866
+"Turdus philomelos",123014,"Turdidae"," LC",38,6.84061157488014
+"Chloris chloris",115137,"Fringillidae"," LC",39,6.93608256317576
+"Tachybaptus ruficollis",114975,"Podicipedidae"," LC",40,6.93811389257393
+"Spatula clypeata",113734,"Anatidae"," LC",41,6.9537704877869
+"Motacilla alba",108928,"Motacillidae"," LC",42,7.01605924304263
+"Emberiza schoeniclus",106717,"Emberizidae"," LC",43,7.04564407474694
+"Aegithalos caudatus",106215,"Aegithalidae"," LC",44,7.05244656805293
+"Haematopus ostralegus",101932,"Haematopodidae"," NT",45,7.11182705553039
+"Certhia brachydactyla",100853,"Certhiidae"," LC",46,7.12718009091453
+"Alauda arvensis",100301,"Alaudidae"," LC",47,7.13509810061437
+"Cygnus olor",97595,"Anatidae"," LC",48,7.17455494784161
+"Alcedo atthis",97462,"Alcedinidae"," LC",49,7.17652235706225
+"Aythya ferina",96819,"Anatidae"," VU",50,7.18607199185303
+"Larus argentatus",93829,"Laridae"," LC",51,7.23132829559414
+"Saxicola rubicola",92487,"Muscicapidae"," ",52,7.2521115909402
+"Sylvia communis",90652,"Sylviidae"," LC",53,7.28102333555441
+"Sitta europaea",90602,"Sittidae"," LC",54,7.2818192876865
+"Acrocephalus scirpaceus",90411,"Acrocephalidae"," LC",55,7.28486387404302
+"Anthus pratensis",89944,"Motacillidae"," LC",56,7.29233514004432
+"Carduelis carduelis",89621,"Fringillidae"," LC",57,7.29752536086466
+"Circus aeruginosus",89070,"Accipitridae"," LC",58,7.30642259113341
+"Larus fuscus",83232,"Laridae"," LC",59,7.4042238807856
+"Gallinago gallinago",82215,"Scolopacidae"," LC",60,7.42196054977142
+"Numenius arquata",81086,"Scolopacidae"," NT",61,7.44190933946783
+"Tringa ochropus",79630,"Scolopacidae"," LC",62,7.46805012755926
+"Regulus regulus",77660,"Regulidae"," LC",63,7.50419047793275
+"Apus apus",76989,"Apodidae"," LC",64,7.51670985338594
+"Mareca penelope",75595,"Anatidae"," LC",65,7.54307137022692
+"Columba oenas",73398,"Columbidae"," LC",66,7.5856214331378
+"Actitis hypoleucos",72499,"Scolopacidae"," LC",67,7.60340108943075
+"Falco peregrinus",71001,"Falconidae"," LC",68,7.63352284105645
+"Cuculus canorus",69367,"Cuculidae"," LC",69,7.66711269325552
+"Motacilla cinerea",69074,"Motacillidae"," LC",70,7.67321941421425
+"Spinus spinus",66190,"Fringillidae"," LC",71,7.73474891437274
+"Linaria cannabina",65469,"Fringillidae"," LC",72,7.7505502423923
+"Turdus pilaris",63817,"Turdidae"," LC",73,7.78742139522145
+"Turdus iliacus",62779,"Turdidae"," LC",74,7.81108013661163
+"Motacilla flava",62538,"Motacillidae"," LC",75,7.81662910336773
+"Phoenicurus ochruros",61419,"Muscicapidae"," LC",76,7.84267716206733
+"Tringa totanus",61116,"Scolopacidae"," LC",77,7.8498120621099
+"Cettia cetti",60725,"Cettiidae"," LC",78,7.859071600318
+"Larus canus",59868,"Laridae"," LC",79,7.87957710999901
+"Luscinia svecica",59092,"Muscicapidae"," LC",80,7.89839935666385
+"Falco subbuteo",58800,"Falconidae"," LC",81,7.9055460301175
+"Phylloscopus trochilus",56775,"Phylloscopidae"," LC",82,7.95610638424698
+"Limosa limosa",56322,"Scolopacidae"," NT",83,7.96766362004535
+"Rallus aquaticus",53080,"Rallidae"," LC",84,8.05319381447103
+"Egretta garzetta",52667,"Ardeidae"," LC",85,8.06446290165818
+"Fringilla montifringilla",52559,"Fringillidae"," LC",86,8.0674243583158
+"Tringa nebularia",52032,"Scolopacidae"," LC",87,8.08196302265356
+"Emberiza citrinella",51391,"Emberizidae"," LC",88,8.09984645985054
+"Delichon urbicum",50663,"Hirundinidae"," LC",89,8.12042967668426
+"Anas acuta",50602,"Anatidae"," LC",90,8.12216777786707
+"Platalea leucorodia",48717,"Threskiornithidae"," LC",91,8.17693689057163
+"Charadrius dubius",47281,"Charadriidae"," LC",92,8.22010163613188
+"Acrocephalus palustris",46003,"Acrocephalidae"," LC",93,8.25963423827045
+"Anser albifrons",45510,"Anatidae"," LC",94,8.27517859887304
+"Circus cyaneus",45432,"Accipitridae"," LC",95,8.27765336830373
+"Strix aluco",44934,"Strigidae"," LC",96,8.29355468968102
+"Ciconia ciconia",44381,"Ciconiidae"," LC",97,8.31142001023576
+"Sylvia borin",43949,"Sylviidae"," LC",98,8.32553184600964
+"Oenanthe oenanthe",43778,"Muscicapidae"," LC",99,8.33115613874594
+"Sterna hirundo",42953,"Laridae"," LC",100,8.3586032870174
+"Ichthyaetus melanocephalus",42457,"Laridae"," LC",101,8.37535975077122
+"Anthus trivialis",42121,"Motacillidae"," LC",102,8.38682249720309
+"Perdix perdix",41626,"Phasianidae"," LC",103,8.40387725407124
+"Branta leucopsis",39876,"Anatidae"," LC",104,8.4658414863154
+"Periparus ater",39653,"Paridae"," LC",105,8.47393216612517
+"Lophophanes cristatus",39052,"Paridae"," LC",106,8.49596574907322
+"Acrocephalus schoenobaenus",39049,"Acrocephalidae"," LC",107,8.49607658210032
+"Calidris pugnax",38462,"Scolopacidae"," LC",108,8.51792840130889
+"Corvus frugilegus",37810,"Corvidae"," LC",109,8.54259433585399
+"Turdus viscivorus",37354,"Turdidae"," LC",110,8.56009944494442
+"Athene noctua",36733,"Strigidae"," LC",111,8.5842854587698
+"Pernis apivorus",36471,"Accipitridae"," LC",112,8.59461242764216
+"Spatula querquedula",35780,"Anatidae"," LC",113,8.62220879778932
+"Recurvirostra avosetta",35598,"Recurvirostridae"," LC",114,8.62956599654744
+"Lullula arborea",33766,"Alaudidae"," LC",115,8.7057909007689
+"Dryocopus martius",33608,"Picidae"," LC",116,8.71255749424207
+"Passer montanus",33119,"Passeridae"," LC",117,8.73370307263239
+"Podiceps nigricollis",32228,"Podicipedidae"," LC",118,8.77304752453875
+"Poecile montanus",32133,"Paridae"," LC",119,8.77730650523887
+"Bucephala clangula",32096,"Anatidae"," LC",120,8.77896867411641
+"Calidris alpina",29900,"Scolopacidae"," NT",121,8.88121670075576
+"Accipiter gentilis",26989,"Accipitridae"," LC",122,9.02899066231168
+"Mergus merganser",26428,"Anatidae"," LC",123,9.05929493535131
+"Riparia riparia",25550,"Hirundinidae"," LC",124,9.10803889401624
+"Scolopax rusticola",25278,"Scolopacidae"," LC",125,9.12347986344518
+"Phoenicurus phoenicurus",24724,"Muscicapidae"," LC",126,9.15545001502252
+"Dryobates minor",24233,"Picidae"," LC",127,9.18438916639041
+"Regulus ignicapilla",24215,"Regulidae"," LC",128,9.1854611822396
+"Anthus spinoletta",24157,"Motacillidae"," LC",129,9.18892088423547
+"Locustella naevia",23997,"Locustellidae"," LC",130,9.19850812749745
+"Luscinia megarhynchos",23688,"Muscicapidae"," LC",131,9.21720578955103
+"Coccothraustes coccothraustes",22213,"Fringillidae"," LC",132,9.30995793444452
+"Saxicola rubetra",21276,"Muscicapidae"," LC",133,9.37213524310874
+"Cygnus columbianus",20956,"Anatidae"," ",134,9.39399881805953
+"Mergellus albellus",20801,"Anatidae"," LC",135,9.40470929814153
+"Charadrius hiaticula",20612,"Charadriidae"," LC",136,9.41787768757556
+"Tringa erythropus",20351,"Scolopacidae"," LC",137,9.43626249832423
+"Pyrrhula pyrrhula",20336,"Fringillidae"," LC",138,9.43732624972363
+"Hippolais icterina",20201,"Acrocephalidae"," LC",139,9.44693547342327
+"Botaurus stellaris",19987,"Ardeidae"," LC",140,9.46230024185718
+"Larus marinus",19395,"Laridae"," LC",141,9.50567740930981
+"Asio otus",19014,"Strigidae"," LC",142,9.5343001196252
+"Tringa glareola",18749,"Scolopacidae"," LC",143,9.55454853535804
+"Numenius phaeopus",18454,"Scolopacidae"," LC",144,9.57742862338154
+"Loxia curvirostra",18086,"Fringillidae"," LC",145,9.6064888163723
+"Pluvialis apricaria",16942,"Charadriidae"," LC",146,9.70075799057011
+"Poecile palustris",16921,"Paridae"," LC",147,9.70254735357649
+"Streptopelia turtur",16601,"Columbidae"," VU",148,9.73009203688477
+"Oriolus oriolus",16560,"Oriolidae"," LC",149,9.7336595123419
+"Arenaria interpres",16272,"Scolopacidae"," NT",150,9.75897060087109
+"Muscicapa striata",15057,"Muscicapidae"," LC",151,9.87092783324792
+"Pandion haliaetus",14225,"Pandionidae"," LC",152,9.95293353264728
+"Branta canadensis",14099,"Anatidae"," ",153,9.96576934498079
+"Sylvia curruca",13954,"Sylviidae"," LC",154,9.98068344642434
+"Milvus milvus",13897,"Accipitridae"," LC",155,9.98658870886701
+"Chlidonias niger",13878,"Laridae"," LC",156,9.98856251337124
+"Ficedula hypoleuca",13874,"Muscicapidae"," LC",157,9.9889783954845
+"Anser serrirostris",13855,"Anatidae"," ",158,9.99095547435981
+"Panurus biarmicus",13184,"Panuridae"," LC",159,10.0625740375454
+"Falco columbarius",12848,"Falconidae"," LC",160,10.0998183872113
+"Lanius excubitor",12645,"Laniidae"," LC",161,10.122795148178
+"Pluvialis squatarola",12537,"Charadriidae"," VU",162,10.135170020685
+"Alopochen aegyptiaca",11924,"Anatidae","LC",163,10.2074939047374
+"Tyto alba",11899,"Tytonidae"," LC",164,10.2105218516175
+"Grus grus",11775,"Gruidae"," LC",165,10.2256351253411
+"Asio flammeus",11358,"Strigidae"," LC",166,10.2776533683037
+"Acanthis flammea",11260,"Fringillidae"," ",167,10.290155357761
+"Turdus torquatus",11146,"Turdidae"," LC",168,10.3048361266505
+"Columba livia",10495,"Columbidae","LC",169,10.3916600185491
+"Calidris alba",10342,"Scolopacidae"," LC",170,10.4128469752452
+"Ixobrychus minutus",10289,"Ardeidae"," LC",171,10.42025941336
+"Larus michahellis",10035,"Laridae"," LC",172,10.4563215684786
+"Hydrocoloeus minutus",9928,"Laridae"," LC",173,10.4717871645982
+"Anser brachyrhynchus",9719,"Anatidae"," LC",174,10.5024823992867
+"Dendrocoptes medius",9579,"Picidae"," LC",175,10.5234152264373
+"Larus cachinnans",8770,"Laridae"," LC",176,10.6507134373965
+"Limosa lapponica",8679,"Scolopacidae"," NT",177,10.6657614560778
+"Coturnix coturnix",8396,"Phasianidae"," LC",178,10.7135881134364
+"Netta rufina",7906,"Anatidae"," LC",179,10.800342324909
+"Branta bernicla",7902,"Anatidae"," LC",180,10.8010724337509
+"Emberiza calandra",7846,"Emberizidae"," LC",181,10.8113329446515
+"Himantopus himantopus",7720,"Recurvirostridae"," LC",182,10.8346894325731
+"Thalasseus sandvicensis",7706,"Laridae"," LC",183,10.837308094069
+"Phasianus colchicus",7565,"Phasianidae","LC",184,10.8639501976245
+"Cygnus cygnus",7320,"Anatidae"," LC",185,10.9114466315572
+"Milvus migrans",7078,"Accipitridae"," LC",186,10.9599485183034
+"Ardea purpurea",6720,"Ardeidae"," LC",187,11.0348290470625
+"Lymnocryptes minimus",6535,"Scolopacidae"," LC",188,11.0751030440458
+"Curruca communis",6416,"Sylviidae","LC",189,11.1016161382737
+"Calidris minuta",6399,"Scolopacidae"," LC",190,11.1054438136669
+"Calidris canutus",6394,"Scolopacidae"," NT",191,11.1065715359481
+"Locustella luscinioides",6043,"Locustellidae"," LC",192,11.1880253380289
+"Melanitta nigra",5986,"Anatidae"," LC",193,11.2016980012305
+"Caprimulgus europaeus",5940,"Caprimulgidae"," LC",194,11.2128273490405
+"Aythya marila",5930,"Anatidae"," LC",195,11.2152581752952
+"Podiceps grisegena",5397,"Podicipedidae"," LC",196,11.3511325927559
+"Morus bassanus",5170,"Sulidae"," LC",197,11.4131259995263
+"Psittacula krameri",5163,"Psittaculidae","LC",198,11.4150806819672
+"Aythya nyroca",5109,"Anatidae"," NT",199,11.4302493443289
+"Mergus serrator",5038,"Anatidae"," LC",200,11.4504391579943
+"Bubulcus ibis",4949,"Ardeidae"," LC",201,11.4761532378616
+"Phylloscopus inornatus",4798,"Phylloscopidae"," LC",202,11.5208571224352
+"Anthus petrosus",4751,"Motacillidae"," LC",203,11.5350590733177
+"Remiz pendulinus",4705,"Remizidae"," LC",204,11.5490955571127
+"Phylloscopus sibillatrix",4439,"Phylloscopidae"," LC",205,11.6330555714035
+"Calidris ferruginea",4380,"Scolopacidae"," VU",206,11.6523594102401
+"Ciconia nigra",4258,"Ciconiidae"," LC",207,11.6931143302763
+"Somateria mollissima",4236,"Anatidae"," NT",208,11.7005876907363
+"Jynx torquilla",4141,"Picidae"," LC",209,11.7333110773587
+"Porzana porzana",4049,"Rallidae"," LC",210,11.7657246370521
+"Serinus serinus",3977,"Fringillidae"," LC",211,11.7916097179234
+"Buteo lagopus",3872,"Accipitridae"," LC",212,11.830211327454
+"Lanius collurio",3843,"Laniidae"," LC",213,11.8410573036658
+"Calidris maritima",3827,"Scolopacidae"," LC",214,11.8470763790601
+"Rissa tridactyla",3810,"Laridae"," VU",215,11.8534992823479
+"Calidris temminckii",3713,"Scolopacidae"," LC",216,11.8907049648738
+"Bombycilla garrulus",3681,"Bombycillidae"," LC",217,11.9031925303445
+"Galerida cristata",3525,"Alaudidae"," LC",218,11.9656670225551
+"Melanitta fusca",3391,"Anatidae"," VU",219,12.0215794957032
+"Podiceps auritus",3379,"Podicipedidae"," VU",220,12.0266939295648
+"Nycticorax nycticorax",3342,"Ardeidae"," LC",221,12.0425785466674
+"Gavia stellata",3309,"Gaviidae"," LC",222,12.056894988416
+"Stercorarius parasiticus",3261,"Stercorariidae"," LC",223,12.0779758389801
+"Cisticola juncidis",3028,"Cisticolidae"," LC",224,12.1849250747429
+"Sterna paradisaea",2978,"Laridae"," LC",225,12.2089465261465
+"Anthus campestris",2869,"Motacillidae"," LC",226,12.2627423119599
+"Gavia immer",2786,"Gaviidae"," LC",227,12.3050950221273
+"Plectrophenax nivalis",2781,"Calcariidae"," LC",228,12.3076865353819
+"Sternula albifrons",2755,"Laridae"," LC",229,12.3212379612701
+"Haliaeetus albicilla",2724,"Accipitridae"," LC",230,12.3375635767165
+"Clangula hyemalis",2683,"Anatidae"," VU",231,12.3594432254681
+"Branta ruficollis",2660,"Anatidae"," VU",232,12.37186403434
+"Stercorarius skua",2617,"Stercorariidae"," LC",233,12.3953763556806
+"Circaetus gallicus",2596,"Accipitridae"," LC",234,12.4069998967294
+"Circus pygargus",2554,"Accipitridae"," LC",235,12.4305317550259
+"Acrocephalus arundinaceus",2515,"Acrocephalidae"," ",236,12.4527318800357
+"Calcarius lapponicus",2288,"Calcariidae"," LC",237,12.5892032279502
+"Gavia arctica",2111,"Gaviidae"," LC",238,12.7053637013814
+"Stercorarius pomarinus",1807,"Stercorariidae"," LC",239,12.929693773864
+"Charadrius alexandrinus",1766,"Charadriidae"," LC",240,12.9628049370801
+"Uria aalge",1755,"Alcidae"," LC",241,12.9718192495367
+"Merops apiaster",1752,"Meropidae"," LC",242,12.9742875051274
+"Plegadis falcinellus",1750,"Threskiornithidae"," LC",243,12.9759353580089
+"Chlidonias hybrida",1668,"Laridae"," LC",244,13.0451709912839
+"Corvus cornix",1640,"Corvidae"," ",245,13.0695944652231
+"Alca torda",1602,"Alcidae"," LC",246,13.1034161323199
+"Puffinus puffinus",1559,"Procellariidae"," LC",247,13.1426693520308
+"Corvus corax",1552,"Corvidae"," LC",248,13.1491617225415
+"Hippolais polyglotta",1521,"Acrocephalidae"," LC",249,13.1782701270041
+"Ardea ibis",1472,"Ardeidae","LC",250,13.2255126086716
+"Larus hyperboreus",1467,"Laridae"," LC",251,13.2304214090552
+"Phalaropus fulicarius",1447,"Scolopacidae"," LC",252,13.2502253581969
+"Larus glaucoides",1417,"Laridae"," LC",253,13.2804505218106
+"Charadrius morinellus",1409,"Charadriidae"," LC",254,13.288618668419
+"Curruca curruca",1408,"Sylviidae","LC",255,13.2896429460913
+"Linaria flavirostris",1382,"Fringillidae"," LC",256,13.3165326643403
+"Falco vespertinus",1311,"Falconidae"," VU",257,13.3926225945068
+"Fulmarus glacialis",1264,"Procellariidae"," LC",258,13.4452938165515
+"Eremophila alpestris",1254,"Alaudidae"," LC",259,13.4567529319265
+"Oceanodroma leucorhoa",1230,"Hydrobatidae"," VU",260,13.484631964502
+"Bubo bubo",1221,"Strigidae"," LC",261,13.4952270797412
+"Tringa stagnatilis",1208,"Scolopacidae"," LC",262,13.5106698254035
+"Phalaropus lobatus",1204,"Scolopacidae"," LC",263,13.5154548879689
+"Emberiza hortulana",1196,"Emberizidae"," LC",264,13.5250728905305
+"Phalacrocorax aristotelis",1195,"Phalacrocoracidae"," LC",265,13.5262796618605
+"Anthus richardi",1158,"Motacillidae"," LC",266,13.5716550267394
+"Acrocephalus paludicola",1128,"Acrocephalidae"," VU",267,13.6095232123298
+"Upupa epops",1122,"Upupidae"," LC",268,13.6172176041198
+"Anthus cervinus",1112,"Motacillidae"," LC",269,13.6301334920051
+"Carpodacus erythrinus",1111,"Fringillidae"," LC",270,13.6314314633395
+"Phylloscopus proregulus",1086,"Phylloscopidae"," LC",271,13.6642661769242
+"Astur gentilis",1027,"Accipitridae","LC",272,13.7448540984104
+"Ardeola ralloides",1001,"Ardeidae"," LC",273,13.7818483058926
+"Aythya collaris",1000,"Anatidae"," LC",274,13.7832902800665
+"Calidris melanotos",999,"Scolopacidae"," LC",275,13.7847336969362
+"Chlidonias leucopterus",997,"Laridae"," LC",276,13.7876248703304
+"Bubo scandiacus",986,"Strigidae"," VU",277,13.8036307283507
+"Puffinus griseus",955,"Procellariidae"," ",278,13.8497176418055
+"Anser caerulescens",952,"Anatidae"," LC",279,13.8542568014206
+"Microcarbo pygmaeus",950,"Phalacrocoracidae"," LC",280,13.8572908615103
+"Loxia pytyopsittacus",932,"Fringillidae"," LC",281,13.8848884200743
+"Anser erythropus",926,"Anatidae"," VU",282,13.8942061814684
+"Phylloscopus fuscatus",904,"Phylloscopidae"," LC",283,13.9288956023134
+"Sylvia nisoria",861,"Sylviidae"," LC",284,13.9992051373317
+"Oenanthe deserti",858,"Muscicapidae"," LC",285,14.004240727229
+"Crex crex",841,"Rallidae"," LC",286,14.0331125744734
+"Stercorarius longicaudus",834,"Stercorariidae"," LC",287,14.0451709912839
+"Circus macrourus",827,"Accipitridae"," NT",288,14.0573310455573
+"Ficedula parva",802,"Muscicapidae"," LC",289,14.1016161382737
+"Emberiza pusilla",780,"Emberizidae"," LC",290,14.141744250979
+"Xema sabini",738,"Laridae"," LC",291,14.2215975586682
+"Aix galericulata",732,"Anatidae","LC",292,14.2333747264445
+"Hydroprogne caspia",676,"Laridae"," LC",293,14.3481951284464
+"Oxyura leucocephala",671,"Anatidae"," EN",294,14.3589056085284
+"Certhia familiaris",629,"Certhiidae"," LC",295,14.4521583578493
+"Lanius senator",603,"Laniidae"," NT",296,14.5130603728285
+"Phylloscopus ibericus",595,"Phylloscopidae"," LC",297,14.5323287065333
+"Anas carolinensis",585,"Anatidae"," LC",298,14.5567817502578
+"Alle alle",574,"Alcidae"," LC",299,14.5841676380529
+"Porzana parva",562,"Rallidae"," LC",300,14.6146482445077
+"Phylloscopus humei",561,"Phylloscopidae"," LC",301,14.6172176041198
+"Locustella fluviatilis",533,"Locustellidae"," LC",302,14.6910828419694
+"Spatula discors",518,"Anatidae"," LC",303,14.732266277042
+"Emberiza leucocephalos",508,"Emberizidae"," LC",304,14.7603898779564
+"Anser indicus",500,"Anatidae","LC",305,14.7832902800665
+"Lyrurus tetrix",499,"Phasianidae"," LC",306,14.7861785593913
+"Cinclus cinclus",492,"Cinclidae"," LC",307,14.8065600593893
+"Elanus caeruleus",474,"Accipitridae"," LC",308,14.8603313158303
+"Pluvialis fulva",467,"Charadriidae"," LC",309,14.8817958250189
+"Oenanthe pleschanka",437,"Muscicapidae"," LC",310,14.977585095228
+"Tarsiger cyanurus",424,"Muscicapidae"," LC",311,15.0211541101654
+"Xenus cinereus",423,"Scolopacidae"," LC",312,15.0245607116086
+"Sibirionetta formosa",410,"Anatidae"," LC",313,15.0695944652231
+"Otis tarda",404,"Otididae"," EN",314,15.0908630819768
+"Tringa flavipes",399,"Scolopacidae"," VU",315,15.1088296285062
+"Botaurus minutus",394,"Ardeidae","LC",316,15.1270227452722
+"Mareca americana",393,"Anatidae"," LC",317,15.13068906247
+"Myiopsitta monachus",393,"Psittacidae","LC",318,15.13068906247
+"Buteo rufinus",392,"Accipitridae"," LC",319,15.1343647206134
+"Burhinus oedicnemus",386,"Burhinidae"," LC",320,15.1566175274605
+"Pastor roseus",367,"Sturnidae"," LC",321,15.2294383118854
+"Coracias garrulus",345,"Coraciidae"," LC",322,15.3186220130631
+"Oenanthe isabellina",344,"Muscicapidae"," LC",323,15.3228098100265
+"Gelochelidon nilotica",325,"Laridae"," LC",324,15.4047786568128
+"Vanellus gregarius",320,"Charadriidae"," CR",325,15.4271464698412
+"Nucifraga caryocatactes",319,"Corvidae"," LC",326,15.4316619509637
+"Junco hyemalis",316,"Passerellidae"," LC",327,15.4452938165515
+"Phylloscopus trochiloides",312,"Phylloscopidae"," LC",328,15.4636723458663
+"Calidris falcinellus",310,"Scolopacidae"," VU",329,15.4729501594543
+"Porzana pusilla",310,"Rallidae"," LC",330,15.4729501594543
+"Anthus hodgsoni",298,"Motacillidae"," LC",331,15.5299060442664
+"Gyps fulvus",297,"Accipitridae"," LC",332,15.5347554439278
+"Gallinago media",294,"Scolopacidae"," NT",333,15.5494022198922
+"Larus delawarensis",294,"Laridae"," LC",334,15.5494022198922
+"Tadorna ferruginea",285,"Anatidae","LC",335,15.5942564556765
+"Sylvia undata",283,"Sylviidae"," NT",336,15.6044163218967
+"Cygnus atratus",282,"Anatidae","LC",337,15.6095232123298
+"Saxicola maurus",280,"Muscicapidae"," ",338,15.6197915477836
+"Calidris subruficollis",278,"Scolopacidae"," VU",339,15.6301334920051
+"Acrocephalus agricola",273,"Acrocephalidae"," LC",340,15.6563174238087
+"Cecropis daurica",255,"Hirundinidae"," LC",341,15.7547211278697
+"Gulosus aristotelis",241,"Phalacrocoracidae","LC",342,15.8361852284986
+"Acrocephalus dumetorum",239,"Acrocephalidae"," LC",343,15.8482077567478
+"Hieraaetus pennatus",235,"Accipitridae"," LC",344,15.8725576181636
+"Anthus godlewskii",233,"Motacillidae"," LC",345,15.8848884200743
+"Tetrax tetrax",232,"Otididae"," NT",346,15.891093569601
+"Lanius schach",231,"Laniidae"," LC",347,15.8973255233125
+"Phylloscopus schwarzi",224,"Phylloscopidae"," LC",348,15.941719642671
+"Aythya affinis",212,"Anatidae"," LC",349,16.0211541101654
+"Calidris bairdii",211,"Scolopacidae"," LC",350,16.0279753760214
+"Hydrobates pelagicus",203,"Hydrobatidae"," LC",351,16.0837386475434
+"Iduna caligata",201,"Acrocephalidae"," LC",352,16.0980228735497
+"Rhodostethia rosea",182,"Laridae","LC",353,16.2412799245299
+"Phylloscopus bonelli",175,"Phylloscopidae"," LC",354,16.2978634528963
+"Cairina moschata",168,"Anatidae","LC",355,16.3567571419498
+"Glareola nordmanni",168,"Glareolidae"," NT",356,16.3567571419498
+"Sylvia cantillans",167,"Sylviidae"," ",357,16.3653702722545
+"Leucophaeus pipixcan",166,"Laridae"," LC",358,16.3740351333817
+"Motacilla citreola",165,"Motacillidae"," LC",359,16.3827523504828
+"Psittacula eupatria",158,"Psittaculidae","LC",360,16.4452938165515
+"Prunella collaris",157,"Prunellidae"," LC",361,16.454453815837
+"Sterna dougallii",156,"Laridae"," LC",362,16.4636723458663
+"Cepphus grylle",153,"Alcidae"," LC",363,16.4916867220359
+"Podilymbus podiceps",153,"Podicipedidae"," LC",364,16.4916867220359
+"Anser rossii",151,"Anatidae","LC",365,16.5106698254035
+"Ardenna grisea",148,"Procellariidae","NT",366,16.5396211990996
+"Apus pallidus",145,"Apodidae"," LC",367,16.5691654747137
+"Chroicocephalus genei",142,"Laridae"," LC",368,16.5993274452239
+"Puffinus mauretanicus",142,"Procellariidae"," CR",369,16.5993274452239
+"Zoothera aurea",139,"Turdidae"," LC",370,16.6301334920051
+"Chroicocephalus philadelphia",135,"Laridae"," LC",371,16.6722589676778
+"Phylloscopus borealis",133,"Phylloscopidae"," LC",372,16.6937921292274
+"Hydrobates leucorhous",131,"Hydrobatidae","VU",373,16.7156515631911
+"Branta hutchinsii",126,"Anatidae"," ",374,16.7717946412287
+"Calandrella brachydactyla",124,"Alaudidae"," LC",375,16.7948782543417
+"Anser fabalis",123,"Anatidae"," LC",376,16.8065600593893
+"Curruca nisoria",123,"Sylviidae","LC",377,16.8065600593893
+"Emberiza cirlus",123,"Emberizidae"," LC",378,16.8065600593893
+"Oxyura jamaicensis",122,"Anatidae","",379,16.8183372271657
+"Glareola pratincola",121,"Glareolidae"," LC",380,16.830211327454
+"Lanius isabellinus",116,"Laniidae"," LC",381,16.891093569601
+"Luscinia luscinia",116,"Muscicapidae"," LC",382,16.891093569601
+"Calidris fuscicollis",114,"Scolopacidae"," VU",383,16.9161845505638
+"Fratercula arctica",113,"Alcidae"," VU",384,16.9288956023134
+"Gavia adamsii",106,"Gaviidae"," NT",385,17.0211541101654
+"Tachymarptis melba",102,"Apodidae"," LC",386,17.0766492227571
+"Aegolius funereus",100,"Strigidae"," LC",387,17.1052183749539
+"Somateria spectabilis",99,"Anatidae"," LC",388,17.119717944649
+"Falco rusticolus",98,"Falconidae"," LC",389,17.1343647206134
+"Phalaropus tricolor",98,"Scolopacidae"," LC",390,17.1343647206134
+"Turdus eunomus",97,"Turdidae","LC",391,17.1491617225415
+"Melanitta perspicillata",94,"Anatidae"," LC",392,17.194485713051
+"Zapornia pusilla",94,"Rallidae","LC",393,17.194485713051
+"Anser cygnoides",93,"Anatidae","EN",394,17.2099157536206
+"Aix sponsa",92,"Anatidae","LC",395,17.2255126086716
+"Emberiza rustica",92,"Emberizidae"," NT",396,17.2255126086716
+"Ptyonoprogne rupestris",89,"Hirundinidae"," LC",397,17.2733411337622
+"Glaucidium passerinum",84,"Strigidae","LC",398,17.3567571419498
+"Actitis macularius",79,"Scolopacidae"," LC",399,17.4452938165515
+"Limnodromus scolopaceus",78,"Scolopacidae"," NT",400,17.4636723458663
+"Locustella lanceolata",77,"Locustellidae"," LC",401,17.4822880240337
+"Zapornia parva",75,"Rallidae","LC",402,17.5202558742327
+"Acanthis hornemanni",73,"Fringillidae"," ",403,17.5592500058486
+"Calidris minutilla",73,"Scolopacidae"," NT",404,17.5592500058486
+"Lanius phoenicuroides",72,"Laniidae"," ",405,17.5791495632863
+"Aquila clanga",70,"Accipitridae"," ",406,17.6197915477836
+"Pluvialis dominica",67,"Charadriidae"," LC",407,17.6829853742708
+"Lanius minor",65,"Laniidae"," LC",408,17.7267067517001
+"Melospiza melodia",60,"Passerellidae"," LC",409,17.8421839691201
+"Picus canus",60,"Picidae"," LC",410,17.8421839691201
+"Cecropis rufula",59,"Hirundinidae","",411,17.8664315153667
+"Dumetella carolinensis",56,"Mimidae"," LC",412,17.941719642671
+"Clamator glandarius",54,"Cuculidae"," LC",413,17.9941870625651
+"Helopsaltes certhiola",52,"Locustellidae","LC",414,18.0486348465875
+"Tichodroma muraria",50,"Tichodromidae"," LC",415,18.1052183749539
+"Curruca undata",49,"Sylviidae","NT",416,18.1343647206134
+"Numenius minutus",49,"Scolopacidae"," LC",417,18.1343647206134
+"Sterna forsteri",46,"Laridae"," LC",418,18.2255126086716
+"Sylvia sarda",46,"Sylviidae"," LC",419,18.2255126086716
+"Sylvia melanocephala",44,"Sylviidae"," ",420,18.2896429460913
+"Eudocimus albus",38,"Threskiornithidae","LC",421,18.501147051285
+"Lanius cristatus",38,"Laniidae","LC",422,18.501147051285
+"Monticola solitarius",38,"Muscicapidae","LC",423,18.501147051285
+"Mareca falcata",37,"Anatidae"," LC",424,18.5396211990996
+"Calandrella rufescens",34,"Alaudidae"," ",425,18.6616117234782
+"Oenanthe hispanica",32,"Muscicapidae"," ",426,18.7490745647286
+"Streptopelia orientalis",32,"Columbidae","LC",427,18.7490745647286
+"Eudocimus ruber",31,"Threskiornithidae","LC",428,18.7948782543417
+"Tringa melanoleuca",30,"Scolopacidae"," NT",429,18.8421839691201
+"Vanellus leucurus",29,"Charadriidae"," LC",430,18.891093569601
+"Clanga clanga",28,"Accipitridae","VU",431,18.941719642671
+"Emberiza aureola",28,"Emberizidae"," CR",432,18.941719642671
+"Threskiornis aethiopicus",27,"Threskiornithidae","LC",433,18.9941870625651
+"Dendrocygna bicolor",26,"Anatidae","LC",434,19.0486348465875
+"Otus scops",26,"Strigidae","LC",435,19.0486348465875
+"Vireo olivaceus",26,"Vireonidae"," LC",436,19.0486348465875
+"Curruca cantillans",25,"Sylviidae","LC",437,19.1052183749539
+"Lophodytes cucullatus",25,"Anatidae","LC",438,19.1052183749539
+"Mniotilta varia",24,"Parulidae","LC",439,19.1641120640074
+"Uria lomvia",24,"Alcidae"," LC",440,19.1641120640074
+"Callonetta leucophrys",23,"Anatidae","LC",441,19.2255126086716
+"Calonectris diomedea",22,"Procellariidae"," ",442,19.2896429460913
+"Nymphicus hollandicus",22,"Cacatuidae","LC",443,19.2896429460913
+"Porphyrio porphyrio",21,"Rallidae","LC",444,19.3567571419498
+"Serinus canaria",21,"Fringillidae","LC",445,19.3567571419498
+"Anas bahamensis",20,"Anatidae","LC",446,19.4271464698412
+"Apus affinis",20,"Apodidae","LC",447,19.4271464698412
+"Charadrius mongolus",20,"Charadriidae"," EN",448,19.4271464698412
+"Melopsittacus undulatus",20,"Psittaculidae","LC",449,19.4271464698412
+"Pavo cristatus",19,"Phasianidae","LC",450,19.501147051285
+"Chloephaga picta",18,"Anatidae","LC",451,19.5791495632863
+"Loxia leucoptera",18,"Fringillidae"," LC",452,19.5791495632863
+"Zonotrichia albicollis",18,"Passerellidae"," LC",453,19.5791495632863
+"Acrocephalus melanopogon",17,"Acrocephalidae","LC",454,19.6616117234782
+"Cyanistes cyanus",17,"Paridae"," LC",455,19.6616117234782
+"Gallus gallus",16,"Phasianidae","LC",456,19.7490745647286
+"Oenanthe seebohmi",16,"Muscicapidae","LC",457,19.7490745647286
+"Aegypius monachus",15,"Accipitridae"," NT",458,19.8421839691201
+"Aquila chrysaetos",14,"Accipitridae"," LC",459,19.941719642671
+"Curruca hortensis",14,"Sylviidae","LC",460,19.941719642671
+"Himantopus mexicanus",14,"Recurvirostridae","",461,19.941719642671
+"Melanocorypha calandra",14,"Alaudidae"," LC",462,19.941719642671
+"Phylloscopus nitidus",14,"Phylloscopidae","LC",463,19.941719642671
+"Ficedula albicollis",13,"Muscicapidae"," LC",464,20.0486348465875
+"Mareca sibilatrix",13,"Anatidae","LC",465,20.0486348465875
+"Chenonetta jubata",12,"Anatidae","LC",466,20.1641120640074
+"Onychoprion anaethetus",12,"Laridae"," LC",467,20.1641120640074
+"Thalasseus elegans",12,"Laridae"," NT",468,20.1641120640074
+"Falco cherrug",11,"Falconidae"," EN",469,20.2896429460913
+"Syrmaticus reevesii",11,"Phasianidae","VU",470,20.2896429460913
+"Aquila nipalensis",10,"Accipitridae"," EN",471,20.4271464698412
+"Bostrychia hagedash",10,"Threskiornithidae","LC",472,20.4271464698412
+"Neophron percnopterus",10,"Accipitridae"," EN",473,20.4271464698412
+"Sylvia subalpina",10,"Sylviidae"," ",474,20.4271464698412
+"Anser canagicus",9,"Anatidae","LC",475,20.5791495632863
+"Charadrius leschenaultii",9,"Charadriidae"," LC",476,20.5791495632863
+"Tetrastes bonasia",9,"Phasianidae","LC",477,20.5791495632863
+"Aquila pomarina",8,"Accipitridae"," ",478,20.7490745647286
+"Falco sparverius",8,"Falconidae"," LC",479,20.7490745647286
+"Gypaetus barbatus",8,"Accipitridae"," NT",480,20.7490745647286
+"Haliaeetus leucocephalus",8,"Accipitridae","LC",481,20.7490745647286
+"Branta sandvicensis",7,"Anatidae","NT",482,20.941719642671
+"Oenanthe melanoleuca",7,"Muscicapidae","",483,20.941719642671
+"Sylvia conspicillata",7,"Sylviidae"," LC",484,20.941719642671
+"Curruca iberiae",6,"Sylviidae","",485,21.1641120640074
+"Emberiza cia",6,"Emberizidae"," LC",486,21.1641120640074
+"Leucophaeus atricilla",6,"Laridae"," ",487,21.1641120640074
+"Marmaronetta angustirostris",6,"Anatidae","NT",488,21.1641120640074
+"Milvago chimachima",6,"Falconidae","",489,21.1641120640074
+"Pelecanus onocrotalus",6,"Pelecanidae","LC",490,21.1641120640074
+"Phoenicopterus chilensis",6,"Phoenicopteridae","NT",491,21.1641120640074
+"Spatula versicolor",6,"Anatidae","LC",492,21.1641120640074
+"Agapornis roseicollis",5,"Psittaculidae","LC",493,21.4271464698412
+"Aquila fasciata",5,"Accipitridae"," LC",494,21.4271464698412
+"Dendrocygna autumnalis",5,"Anatidae","LC",495,21.4271464698412
+"Turdus atrogularis",5,"Turdidae"," LC",496,21.4271464698412
+"Alaudala heinei",4,"Alaudidae","LC",497,21.7490745647286
+"Alectoris rufa",4,"Phasianidae","NT",498,21.7490745647286
+"Anas flavirostris",4,"Anatidae","LC",499,21.7490745647286
+"Calidris ruficollis",4,"Scolopacidae"," NT",500,21.7490745647286
+"Curruca melanocephala",4,"Sylviidae","LC",501,21.7490745647286
+"Curruca sarda",4,"Sylviidae","LC",502,21.7490745647286
+"Haemorhous mexicanus",4,"Fringillidae","LC",503,21.7490745647286
+"Icthyophaga vocifer",4,"Accipitridae","LC",504,21.7490745647286
+"Monticola saxatilis",4,"Muscicapidae"," LC",505,21.7490745647286
+"Anas capensis",3,"Anatidae","",506,22.1641120640074
+"Calonectris borealis",3,"Procellariidae","LC",507,22.1641120640074
+"Cardinalis cardinalis",3,"Cardinalidae","LC",508,22.1641120640074
+"Coccyzus americanus",3,"Cuculidae"," LC",509,22.1641120640074
+"Dendrocygna viduata",3,"Anatidae","LC",510,22.1641120640074
+"Falco biarmicus",3,"Falconidae"," LC",511,22.1641120640074
+"Falco naumanni",3,"Falconidae"," LC",512,22.1641120640074
+"Parabuteo unicinctus",3,"Accipitridae","LC",513,22.1641120640074
+"Pelecanus crispus",3,"Pelecanidae"," NT",514,22.1641120640074
+"Phasianus versicolor",3,"Phasianidae","LC",515,22.1641120640074
+"Plegadis ridgwayi",3,"Threskiornithidae","LC",516,22.1641120640074
+"Puffinus gravis",3,"Procellariidae"," ",517,22.1641120640074
+"Spatula hottentota",3,"Anatidae","LC",518,22.1641120640074
+"Spatula rhynchotis",3,"Anatidae","LC",519,22.1641120640074
+"Tadorna cana",3,"Anatidae","LC",520,22.1641120640074
+"Acridotheres cristatellus",2,"Sturnidae","LC",521,22.7490745647286
+"Acridotheres tristis",2,"Sturnidae","LC",522,22.7490745647286
+"Amazonetta brasiliensis",2,"Anatidae","LC",523,22.7490745647286
+"Bucephala albeola",2,"Anatidae","LC",524,22.7490745647286
+"Callipepla californica",2,"Odontophoridae","LC",525,22.7490745647286
+"Caracara plancus",2,"Falconidae","LC",526,22.7490745647286
+"Carduelis citrinella",2,"Fringillidae"," LC",527,22.7490745647286
+"Chlamydotis macqueenii",2,"Otididae"," VU",528,22.7490745647286
+"Chrysolophus pictus",2,"Phasianidae","LC",529,22.7490745647286
+"Emberiza melanocephala",2,"Emberizidae"," LC",530,22.7490745647286
+"Emberiza spodocephala",2,"Emberizidae","LC",531,22.7490745647286
+"Euplectes afer",2,"Ploceidae","LC",532,22.7490745647286
+"Geopelia cuneata",2,"Columbidae","LC",533,22.7490745647286
+"Ichthyaetus audouinii",2,"Laridae"," VU",534,22.7490745647286
+"Ichthyaetus ichthyaetus",2,"Laridae"," LC",535,22.7490745647286
+"Irania gutturalis",2,"Muscicapidae"," LC",536,22.7490745647286
+"Locustella certhiola",2,"Locustellidae"," ",537,22.7490745647286
+"Lophonetta specularioides",2,"Anatidae","LC",538,22.7490745647286
+"Merops persicus",2,"Meropidae"," LC",539,22.7490745647286
+"Phoenicopterus roseus",2,"Phoenicopteridae","LC",540,22.7490745647286
+"Poicephalus senegalus",2,"Psittacidae","LC",541,22.7490745647286
+"Porphyrio poliocephalus",2,"Rallidae","",542,22.7490745647286
+"Psittacus erithacus",2,"Psittacidae","EN",543,22.7490745647286
+"Pterodroma feae",2,"Procellariidae"," NT",544,22.7490745647286
+"Puffinus baroli",2,"Procellariidae"," ",545,22.7490745647286
+"Pycnonotus leucotis",2,"Pycnonotidae","LC",546,22.7490745647286
+"Spatula cyanoptera",2,"Anatidae","LC",547,22.7490745647286
+"Sturnia sinensis",2,"Sturnidae","LC",548,22.7490745647286
+"Taeniopygia guttata",2,"Estrildidae","LC",549,22.7490745647286
+"Trichoglossus moluccanus",2,"Psittaculidae","LC",550,22.7490745647286
+"Turdus migratorius",2,"Turdidae","LC",551,22.7490745647286
+"Agapornis fischeri",1,"Psittaculidae","NT",552,23.7490745647286
+"Amandava amandava",1,"Estrildidae","LC",553,23.7490745647286
+"Aquila rapax",1,"Accipitridae","VU",554,23.7490745647286
+"Aratinga jandaya",1,"Psittacidae","LC",555,23.7490745647286
+"Buteo jamaicensis",1,"Accipitridae","LC",556,23.7490745647286
+"Calidris acuminata",1,"Scolopacidae","VU",557,23.7490745647286
+"Calliope calliope",1,"Muscicapidae","LC",558,23.7490745647286
+"Cereopsis novaehollandiae",1,"Anatidae","LC",559,23.7490745647286
+"Charadrius pecuarius",1,"Charadriidae"," LC",560,23.7490745647286
+"Chloephaga melanoptera",1,"Anatidae","",561,23.7490745647286
+"Chloephaga poliocephala",1,"Anatidae","LC",562,23.7490745647286
+"Chloris spinoides",1,"Fringillidae","LC",563,23.7490745647286
+"Crithagra mozambica",1,"Fringillidae","LC",564,23.7490745647286
+"Curruca subalpina",1,"Sylviidae","",565,23.7490745647286
+"Cursorius cursor",1,"Glareolidae"," LC",566,23.7490745647286
+"Cyanochen cyanoptera",1,"Anatidae","NT",567,23.7490745647286
+"Cyanoramphus auriceps",1,"Psittaculidae","NT",568,23.7490745647286
+"Cygnus melancoryphus",1,"Anatidae","LC",569,23.7490745647286
+"Dacelo novaeguineae",1,"Alcedinidae","LC",570,23.7490745647286
+"Emberiza chrysophrys",1,"Emberizidae"," LC",571,23.7490745647286
+"Geranoaetus melanoleucus",1,"Accipitridae","LC",572,23.7490745647286
+"Grus canadensis",1,"Gruidae"," ",573,23.7490745647286
+"Grus virgo",1,"Gruidae","",574,23.7490745647286
+"Iduna rama",1,"Acrocephalidae"," LC",575,23.7490745647286
+"Lonchura oryzivora",1,"Estrildidae","",576,23.7490745647286
+"Lophura nycthemera",1,"Phasianidae","LC",577,23.7490745647286
+"Meleagris gallopavo",1,"Phasianidae","LC",578,23.7490745647286
+"Numida meleagris",1,"Numididae","LC",579,23.7490745647286
+"Oceanites oceanicus",1,"Hydrobatidae"," LC",580,23.7490745647286
+"Pelecanus conspicillatus",1,"Pelecanidae","LC",581,23.7490745647286
+"Phoeniconaias minor",1,"Phoenicopteridae","NT",582,23.7490745647286
+"Phoenicopterus ruber",1,"Phoenicopteridae","LC",583,23.7490745647286
+"Phylloscopus coronatus",1,"Phylloscopidae"," LC",584,23.7490745647286
+"Pinicola enucleator",1,"Fringillidae"," LC",585,23.7490745647286
+"Plectropterus gambensis",1,"Anatidae","LC",586,23.7490745647286
+"Psittacula alexandri",1,"Psittaculidae","NT",587,23.7490745647286
+"Pterocles orientalis",1,"Pteroclidae","LC",588,23.7490745647286
+"Quiscalus major",1,"Icteridae","LC",589,23.7490745647286
+"Rhea americana",1,"Rheidae","NT",590,23.7490745647286
+"Sturnus unicolor",1,"Sturnidae"," LC",591,23.7490745647286
+"Syrrhaptes paradoxus",1,"Pteroclididae"," LC",592,23.7490745647286
+"Thalassarche melanophris",1,"Diomedeidae","LC",593,23.7490745647286
+"Theristicus caudatus",1,"Threskiornithidae","LC",594,23.7490745647286
+"Turdus obscurus",1,"Turdidae"," LC",595,23.7490745647286
+"Vanellus miles",1,"Charadriidae","LC",596,23.7490745647286
